@@ -4,7 +4,7 @@ import asyncio
 import random
 import imghdr
 bot = commands.Bot(command_prefix='µ')
-TOKEN = 'NjgyMTUyNDMwNDQzNDI5ODg4.XlY2CA.0PTvxYeLRTFfRy2dxUpuLsWhSEg'
+TOKEN = 'YOU''R TOKEN'
 
 @bot.event
 async def on_ready():
