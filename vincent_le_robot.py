@@ -47,4 +47,4 @@ def whelp():
     whelp += 'µChallenge - return the challenge\n'
     return whelp
 
-client.run(TOKEN)
+bot.run(TOKEN)
